@@ -1,0 +1,7 @@
+# Project proposal (draft — personalize before submitting)
+
+Our research question is: How has the national-estimate unemployment rate changed in Ecuador, and how does its trend compare with Colombia? We will use the World Bank indicator `SL.UEM.TOTL.NE.ZS`, measured as a percentage of the total labor force. Ecuador is our main country, and Colombia is the same-indicator comparison. We will also be able to explore other indicators and countries in the app. Brazil is available as a Latin American comparison, but it is not a Spanish-speaking Hispanic country.
+
+The app will retrieve genuine annual observations from the World Bank, display the years that are actually available, and let users inspect or edit a working copy of the data. We will fit polynomial models of different degrees, compare their graphs and in-sample R² and mean absolute error (MAE), and calculate estimates for selected years. We will interpret these models as mathematical descriptions rather than guaranteed forecasts. We will use the World Bank as our primary data source and add two specific historical or cultural context sources from ECLAC, Ecuador's INEC, or Colombia's DANE. Our heritage connection will discuss how employment opportunities relate to people's experiences and economic participation, without treating one statistic as a measure of a country's worth or culture.
+
+Team roles: [Student 1: app/data], [Student 2: math/testing], [Student 3: research/presentation]. Replace these placeholders with the team's real roles and contributions.
